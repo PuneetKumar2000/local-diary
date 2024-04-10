@@ -1,0 +1,62 @@
+{
+    "contacts" :[
+        {
+            "id": "A12",
+            "name": "Puneet Mishra",
+            "photo": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
+            "mobile": "8708252381",
+            "email": "puneet2000@gmail.com",
+            "title": "Software Engineer",
+            "company": "Google Inc.",
+            "groupId": "1"
+        },
+        {
+            "id": "B34",
+            "name": "Jethalaal",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohYgmNGCSc9el1gRPCUFDc56r_KiNcsNkvwvdzk-bmtoe4UfDbxmXaJrJ3xD_tA4ppfM&usqp=CAU",
+            "mobile": "9708252382",
+            "email": "jethiya2000@gmail.com",
+            "title": "Businessman",
+            "company": "Gada Electronics",
+            "groupId": "2"
+        },
+        {
+            "id": "C56",
+            "name": "Champak Chacha",
+            "photo": "https://static.vecteezy.com/system/resources/previews/019/896/008/original/male-user-avatar-icon-in-flat-design-style-person-signs-illustration-png.png",
+            "mobile": "8908252381",
+            "email": "champakgada@gmail.com",
+            "title": "Owner",
+            "company": "Daya Housing company",
+            "groupId": "3"
+        },
+        {
+            "id": "D78",
+            "name": "Aatmaram bhide",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv6TSsTxc4akqKaFykcOvMBU58ArspWt6Hg&usqp=CAU",
+            "mobile": "8708252383",
+            "email": "bhide123@gmail.com",
+            "title": "akmevSecretary",
+            "company": "Gokuldham Society",
+            "groupId": "4"
+        }
+    ],
+    "groups": [
+        {
+            "id": "1",
+            "name": "Colleague"
+        },
+        {
+            "id": "2",
+            "name": "Friends"
+        },
+        {
+            "id": "3",
+            "name": "Family"
+        },
+        {
+            "id": "4",
+            "name": "Neighbours"
+        }
+    ]
+}
